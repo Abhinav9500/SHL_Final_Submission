@@ -12,6 +12,7 @@ pydantic
 streamlit
 chromadb
 google-genai
+google-generativeai
 python-dotenv
 selenium
 webdriver-manager
